@@ -1,4 +1,4 @@
-# Tools Notes
+# Tools: Notes
 
 ### Note
 Notes is a tool that can be used for Personal Note Taking purposes. 
