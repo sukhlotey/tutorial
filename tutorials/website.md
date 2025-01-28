@@ -69,6 +69,7 @@ You can also add a Slideshow to your Web Page.
 ##### Scheduled Publishing
 You can schedule your Web Pages for publishing if you set Start Date and End Date for your Web Page. They will be set as published within the date ranges and will be unpublished outside the range automatically.
 Unpublished pages will throw an Error 404 when they are visited.
+
 ![Screenshot from 2025-01-28 17-49-58](https://github.com/user-attachments/assets/dec428cd-0c5f-47ee-8c2d-5ea9b0a13a82)
 
 ##### Sidebar
