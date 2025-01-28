@@ -6,6 +6,6 @@
 | 2          | [Note](./tutorials/notes.md)    | [Automation](./tutorials/automation.md) |                          |                               |
 | 3          | [Calendar](./tutorials/calender.md) | [Core](./tutorials/core.md)      |                          |                               |
 | 7          |                                 | [Custom](./tutorials/custom.md)  |                          |                               |
-| 8          |                                 | [Integration](./tutorials/integrations.md) |                          |                               |
+| 8          |                                 | [Integrations](./tutorials/integrations.md) |                          |                               |
 | 9          |                                 | [Website](./tutorials/website.md) |                          |                               |
 
