@@ -1,12 +1,11 @@
 # Tutorials
 
-| Serial Number | 1               | 2               | 3               |
-|---------------|------------------|------------------|------------------|
-| Tools         | ToDo            | Note            | Calendar        |
-| Tool Links    | [ToDo](./tutorials/todo.md) | [Note](./tutorials/notes.md) | [Calendar](./tutorials/calender.md) |
-| Modules       | Workflow        | Automation      |                |
-| Module Links  | [Workflow](./tutorials/workflow.md) | [Automation](./tutorials/automation) |  |
-| Workshops     | Shell           |                |                |
-| Workshop Link | [Shell](./tutorials/shell.md) |                |                |
-| Website       | Web Form        |                |                |
-| Website Links | [Web Form](./tutorials/webform.md) |               |               |
+| Sr No. | Tools                           | Module                           | Workshops                | Website                 |
+|------|------------------------------|--------------------------|--------------------|--------------------------|
+| 1          | [ToDo](./tutorials/todo.md)     | [Workflow](./tutorials/workflow.md) | [Shell](./tutorials/shell.md) | [Web Form](./tutorials/webform.md) |
+| 2          | [Note](./tutorials/notes.md)    | [Automation](./tutorials/automation.md) |                          |                               |
+| 3          | [Calendar](./tutorials/calender.md) | [Core](./tutorials/core.md)      |                          |                               |
+| 7          |                                 | [Custom](./tutorials/custom.md)  |                          |                               |
+| 8          |                                 | [Integration](./tutorials/integrations.md) |                          |                               |
+| 9          |                                 | [Website](./tutorials/website.md) |                          |                               |
+
