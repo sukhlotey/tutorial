@@ -91,6 +91,85 @@ You can add a list of breadcrumbs on your Web Page. These will be shown on top b
 
 ![Screenshot from 2025-01-28 18-02-20](https://github.com/user-attachments/assets/a5aa30f7-8726-4264-a313-57cc8916803f)
 
+### Blog Post
+
+A Blog Post is an article on your website.
+
+Blogs are a great way to share your thoughts about your business. It helps keep your customers and readers updated on news related to your business.
+
+In the age of the internet, writing assumes a lot of significance because when people come to your website, they want to read about you and your product.
+
+#### How to create a Blog Post 
+
+* Go to the Blog Post list and click on New.
+* Enter the Title, Blog Category, Blogger, and the Content.
+* Enable Published and click on Save.
+
+![Screenshot from 2025-01-28 20-36-59](https://github.com/user-attachments/assets/92075a40-03d0-4a2e-94a7-d54caa09bdb7)
+
+Preview
+
+![Screenshot from 2025-01-28 20-38-09](https://github.com/user-attachments/assets/6f68899c-77c7-4770-9d1f-856f23eeaaf8)
+
+Check the Disable Comments option if you'd like to disable the ability for readers to add comments to the current blog post.
+
+![Screenshot from 2025-01-28 20-43-19](https://github.com/user-attachments/assets/11cc2b38-3717-41d7-8441-0c3292c5eb53)
+
+#### Features
+
+##### Blogger
+Blogger is a user who can post blogs. To create a Blogger, go to:
+
+Home > Website > Blog > Blogger.
+
+You can mention a short bio about the blogger and also set an avatar here.
+
+![image](https://github.com/user-attachments/assets/de86d9cf-f35b-4914-b77e-055defb91d81)
+
+#### Web Forms
+
+Stakeholders who are not part of your organization may need to interact with your Frappe instance. You can authorize customers, suppliers, job applicants, students, and guardians to access certain information or even create certain transactions. For example, you can let anyone create an account on your website (created with Frappe) and apply for a job. You can let your customers see the details of the complaints they have registered. These can be done using Web Forms.
+
+To create a new Web Form go to:
+
+Home > Website > Web Site > Web Form
+
+Here is an explanation of each of the checkboxes on the right.
+
+* Published: Web Form will be accessible only if this is enabled.
+* Login Required: User can fill the Web Form only if they are logged in. When Login Required is checked,
+* Route to Success Link: Go to Success Link after the form is submitted.
+* Allow Edit: If this is unchecked the form becomes read-only once it is saved.
+* Allow Multiple: Allow user to create more than one record.
+* Show as Grid: Show records in a table format.
+* Allow Delete: Allow user to delete the records that he/she has created.
+* Allow Comments: Allow user to add comments on the created form.
+* Allow Print: Allow user to print the document in the selected Print Format.
+* Allow Incomplete Forms: Allow user to submit form with partial data.
+
+![Screenshot from 2025-01-28 21-01-02](https://github.com/user-attachments/assets/d4c93fec-f80e-488a-8a36-7ca420e6622b)
+
+#### Web Page Builder
+Page Builder lets you quickly create web pages from pre-configured web templates.
+
+* How to create a page using Page Builder 
+* Follow the steps to create a Web Page.
+* Enable full width by ticking the "Full Width" checkbox.
+* Select Content Type as Page Builder.
+* Click on Add Row in the Page Building Blocks Table.
+* Select a Web Template.
+* Click on the Edit Values button.
+* Enter values in the dialog and click on Submit.
+* Click on Save.
+* The web page will be published only when Published is ticked.
+
+![Screenshot from 2025-01-28 21-08-46](https://github.com/user-attachments/assets/6c131bad-c124-4a9d-80cf-84e7968a2908)
+
+Preview of full width image
+
+![Screenshot from 2025-01-28 21-09-24](https://github.com/user-attachments/assets/32167a01-fb31-4c72-b1dc-97e8cb4c0a84)
+
+
 
 
 
