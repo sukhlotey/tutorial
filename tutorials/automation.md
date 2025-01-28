@@ -1,4 +1,4 @@
-# Automation Module
+# Module: Automation 
 
 ### Automation
 In the Frappe framework, the "automation module" refers to a set of features that allow users to configure and 
