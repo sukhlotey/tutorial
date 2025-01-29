@@ -48,33 +48,6 @@ System Settings
 
 **SMS Settings**: Configures SMS gateways for sending transactional messages.
 
-### Workflow and Automation
-
-**Workflow**: Automates processes by defining states, transitions, and actions for DocTypes.
-
-**Auto Email Reports**: Sends periodic reports to users via email.
-
-**Scheduler**: Handles background jobs and periodic tasks using the Frappe Worker.
-Logging and Monitoring
-
-**Error Logs**: Captures and displays errors for debugging.
-
-**Activity Logs**: Tracks user activities like logins, updates, and deletions.
-
-**Versioning**: Maintains a history of changes made to records (audit trail).
-Notifications
-
-**Email Alerts**: Sends notifications based on specific triggers or conditions.
-
-**Notification Settings**: Allows users to manage their notification preferences.
-
-**In-App Notifications**: Provides real-time updates within the system.
-Search and Navigation
-
-**Global Search**: Quickly searches across all DocTypes and records.
-
-**Quick Actions**: Provides shortcuts for frequently used commands or actions.
-
 ### API and Integration
 
 **REST API:** Provides endpoints for interacting with the system programmatically.
@@ -135,6 +108,171 @@ Printing and Reporting
 
 * Supports global time zones for users and transactions.
 * Manages date and time formatting based on user preferences.
+
+## Lets try to figure out its doctypes
+
+#### Logs Doctypes
+
+##### 1. Access Log
+Records all login attempts, including successful and failed logins.
+Stores details like IP address, user agent, and timestamp.
+
+**Use Cases:**
+
+* Security Monitoring: Detect unauthorized login attempts.
+* Audit Trail: Track who accessed the system and when.
+* Compliance: Maintain records for regulatory purposes.
+
+##### 2. Activity Log
+
+Captures user activities like document creation, updates, deletions, and submissions.
+Logs actions performed by users across the system.
+
+**Use Cases:**
+
+* User Behavior Tracking: Monitor changes made by different users.
+* Debugging: Identify when and how a record was modified.
+* Audit & Compliance: Keep a history of critical actions.
+
+##### 3. Data Import Log
+
+Logs details of data imports, including success, failure, and errors encountered.
+
+**Use Cases:**
+
+* Troubleshooting Data Imports: Identify issues in bulk data uploads.
+* Data Integrity Checks: Ensure imported data is accurate.
+* Performance Monitoring: Track large data imports and their impact.
+##### 4. Error Log
+
+Captures system errors, failed API requests, and exceptions in the application.
+Stores stack traces for debugging.
+
+**Use Cases:**
+
+* Debugging & Troubleshooting: Quickly identify system errors.
+* Monitoring System Health: Detect recurring issues in the application.
+* Performance Optimization: Fix slow or failing processes.
+###### 5. Log Setting User
+
+Stores log settings for specific users, defining which logs they can access.
+
+**Use Cases:**
+
+* Access Control: Restrict log visibility to authorized users.
+* User-Specific Logging: Enable or disable logs based on user roles.
+
+##### 6. Log Settings
+
+Manages global log settings, including log retention policies and enabled/disabled logs.
+
+**Use Cases:**
+
+* Performance Optimization: Reduce log size by limiting unnecessary logs.
+* Security & Compliance: Define how long logs should be stored.
+
+##### 7. Logs To Clear
+
+Lists logs that can be cleared periodically to free up storage.
+
+**Use Cases:**
+
+* Storage Management: Avoid excessive log buildup.
+* Performance Optimization: Improve database performance by removing old logs.
+##### 8. Patch Log
+
+Tracks patches and updates applied to the system.
+
+**Use Cases:**
+
+* System Maintenance: Ensure patches are successfully applied.
+* Debugging Updates: Identify issues caused by recent updates.
+* Audit & Compliance: Maintain a history of system modifications.
+
+##### 9. Scheduled Job Log
+
+Records execution details of scheduled jobs (cron jobs, background tasks).
+
+**Use Cases:**
+
+* Job Monitoring: Ensure scheduled tasks are running as expected.
+* Debugging Failures: Investigate failed or delayed jobs.
+* Performance Analysis: Optimize long-running jobs.
+
+##### 10. Transaction Log
+
+Captures financial and business transactions in the system.
+
+**Use Cases:**
+
+* Audit & Compliance: Maintain a record of critical transactions.
+* Fraud Detection: Identify suspicious financial activities.
+* Business Intelligence: Analyze transaction trends.
+
+##### 11. User Social Login
+
+Logs social media login attempts (Google, Facebook, etc.).
+
+**Use Cases:**
+
+* Security & Authentication: Track login sources.
+* Debugging Login Issues: Identify failed login attempts via social accounts.
+
+##### 12. View Log
+
+Tracks which records were viewed by which users.
+
+**Use Cases:**
+
+* User Activity Monitoring: Identify who accessed specific documents.
+* Privacy & Security: Detect unauthorized access to sensitive records.
+* Audit Trail: Maintain a history of document views.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Importance of the Core Module
 The **Core** module is essential for:
