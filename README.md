@@ -1,7 +1,8 @@
 # Tutorials
 
-| Sr No. | **Tools**    |                         
+| Sr No. | Tutorials   |                         
 |------|------------------------------|
+|  1     |          **Tools**           |
 | 1.1    | [ToDo](./tutorials/todo.md)   |
 | 1.2    | [Note](./tutorials/notes.md)    |   
 | 1.3    | [Calendar](./tutorials/calender.md) |
