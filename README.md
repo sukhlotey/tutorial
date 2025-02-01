@@ -17,3 +17,5 @@
 | 3.1   | [Shell](./tutorials/shell.md) |
 | 4    | **Websites**|
 | 4.1   | [Web Form](./tutorials/webform.md) |
+| 5    | **Web templates**  |
+| 5.1 |  [Hero](./webtemplates/hero.md) |
