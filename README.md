@@ -27,4 +27,4 @@
 | 5.7 |  [Full width image](./webtemplates/fullwidthimage.md) |
 | 5.8 |  [Testimonials](./webtemplates/sectiontestimonials.md) |
 | 5.9 |  [Section with features](./webtemplates/sectionwithfeatures.md) |
-| 5.10 |  [Vides](./webtemplates/videos.md) |
+| 5.10 |  [Videos](./webtemplates/videos.md) |
