@@ -25,6 +25,16 @@
 | 5.5 |  [Discussions](./webtemplates/discussions.md) |
 | 5.6 |  [Embed](./webtemplates/embed.md) |
 | 5.7 |  [Full width image](./webtemplates/fullwidthimage.md) |
-| 5.8 |  [Testimonials](./webtemplates/sectiontestimonials.md) |
+| 5.8 |  [Section with testimonials](./webtemplates/sectiontestimonials.md) |
 | 5.9 |  [Section with features](./webtemplates/sectionwithfeatures.md) |
 | 5.10 |  [Videos](./webtemplates/videos.md) |
+| 5.11 |  [Tesimonial](./webtemplates/testimonial.md) |
+| 5.12 |  [Tabs](./webtemplates/tabs.md) |
+| 5.13 |  [Split section with image](./webtemplates/split-sections-with-image.md) |
+| 5.14 |  [Small CTA](./webtemplates/smallcta.md) |
+| 5.15 |  [Slidesshow](./webtemplates/slides.md) |
+| 5.16 |  [Section with image](./webtemplates/sectionwithimage.md) |
+| 5.17 |  [Section with CTA](./webtemplates/sectionwithcta.md) |
+| 5.18 |  [Markdown](./webtemplates/markdown.md) |
+| 5.19 |  [Image grid](./webtemplates/imagegrid.md) |
+| 5.20 |  [Hero with right image](./webtemplates/herorightimage.md) |
