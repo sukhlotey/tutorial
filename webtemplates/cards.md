@@ -18,32 +18,36 @@ specific details; essentially, cards are ideal for presenting "teasers" that lin
 ![Screenshot from 2025-02-02 01-12-27](https://github.com/user-attachments/assets/a64ffec8-3ee5-46d6-98e8-f62583e0a26b)
 
 * Edit values
-1. Titlw
+1. Title
 2. Subtitle
 3. Choose Small at first later will change to see changes.
 4. There are 10 cards.
 5. Now fill up the values
 
-![Screenshot from 2025-02-02 01-13-30](https://github.com/user-attachments/assets/a695b5a6-ff39-4844-b380-235a166937d0)
+![Screenshot from 2025-02-02 09-52-28](https://github.com/user-attachments/assets/184374e3-176d-4998-b6aa-d7b769287398)
 
 6. Option to add URL link
 * To use URL, when click on specific card it will navigate to given URL.
 
-![Screenshot from 2025-02-02 01-32-20](https://github.com/user-attachments/assets/2e89be31-6944-44d7-ab43-e04d4a1f577c)
+![Screenshot from 2025-02-02 09-53-39](https://github.com/user-attachments/assets/226718d8-93f4-4be1-a86f-67fd5dba2815)
 
 **Card Size options**
 
-![Screenshot from 2025-02-02 01-25-57](https://github.com/user-attachments/assets/b99a6910-9475-4456-a390-0f208c68bb63)
+![Screenshot from 2025-02-02 09-54-27](https://github.com/user-attachments/assets/82927965-b2e9-4f4f-ae05-33dcf23823ca)
+
 
 
 **Small Cards view:** (Recommended)
 
-![Screenshot from 2025-02-02 01-22-26](https://github.com/user-attachments/assets/18d9433d-3269-49b1-9ad2-05021756f781)
+![Screenshot from 2025-02-02 09-55-37](https://github.com/user-attachments/assets/1d535f3e-c66c-4765-bac6-197a386c78ee)
+
 
 **Medium size cards**
 
-![Screenshot from 2025-02-02 01-24-21](https://github.com/user-attachments/assets/6cd4ab81-8eca-470c-ac20-0bfcf9af8b3b)
+![Screenshot from 2025-02-02 09-56-17](https://github.com/user-attachments/assets/84b8babd-598f-4e94-ae4c-17227367c000)
+
 
 **Large size cards**
 
-![Screenshot from 2025-02-02 01-27-20](https://github.com/user-attachments/assets/579a54c3-b901-4a5f-9805-a154661ce34c)
+![Screenshot from 2025-02-02 09-57-09](https://github.com/user-attachments/assets/7a893b35-d0f9-4627-a9e1-a5a87c8fcf6c)
+
