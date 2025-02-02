@@ -19,3 +19,12 @@
 | 4.1   | [Web Form](./tutorials/webform.md) |
 | 5    | **Web templates**  |
 | 5.1 |  [Hero](./webtemplates/hero.md) |
+| 5.2 |  [Cards](./webtemplates/cards.md) |
+| 5.3 |  [Collapsibile](./webtemplates/collapsibile.md) |
+| 5.4 |  [Cover image](./webtemplates/coverimage.md) |
+| 5.5 |  [Discussions](./webtemplates/discussions.md) |
+| 5.6 |  [Embed](./webtemplates/embed.md) |
+| 5.7 |  [Full width image](./webtemplates/fullwidthimage.md) |
+| 5.8 |  [Testimonials](./webtemplates/sectiontestimonials.md) |
+| 5.9 |  [Section with features](./webtemplates/sectionwithfeatures.md) |
+| 5.10 |  [Vides](./webtemplates/videos.md) |
