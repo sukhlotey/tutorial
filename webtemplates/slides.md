@@ -36,7 +36,7 @@ key information on a homepage.
 
 ![Screencastfrom2025-02-0300-38-35-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bfd74876-26de-46f0-a57a-1205c2a56e2f)
 
-**Slideshow provides many options such as to add ***header*** in HTML format and *Fetch attached images from documents***
+**Slideshow provides many options such as to add Header in HTML format and Fetch attached images from documents**
 
 * Header
 
