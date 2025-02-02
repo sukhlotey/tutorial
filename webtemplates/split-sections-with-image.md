@@ -35,3 +35,32 @@
 
 ![Screenshot from 2025-02-03 00-59-19](https://github.com/user-attachments/assets/a395a6a7-eca8-4f25-8122-048840ce18e9)
 
+**There are many options of split columns**
+
+![Screenshot from 2025-02-03 01-00-53](https://github.com/user-attachments/assets/73636361-e6b3-44ba-98ea-b7b2feba3f01)
+
+**Lets try all**
+
+###### 4 columns - 8 columns
+
+![Screenshot from 2025-02-03 01-02-30](https://github.com/user-attachments/assets/5114f85f-b7c2-4993-8c44-30a144e599df)
+
+###### 5 columns - 7 columns
+
+![Screenshot from 2025-02-03 01-03-37](https://github.com/user-attachments/assets/9b0d8b2d-0a7e-4ca7-a07d-ab0937db3ab4)
+
+###### 6 columns - 6 columns
+
+![Screenshot from 2025-02-03 01-04-32](https://github.com/user-attachments/assets/339173a1-6d44-43d4-93a1-3d62a378743f)
+
+###### 7 columns - 5 columns
+
+![Screenshot from 2025-02-03 01-05-18](https://github.com/user-attachments/assets/2171af4d-5500-4e86-9922-65e461a612db)
+
+###### 8 columns - 4 columns
+
+![Screenshot from 2025-02-03 01-06-13](https://github.com/user-attachments/assets/e6265482-e6a7-4717-b8b7-d2f660513b9e)
+
+###### 9 columns - 3 columns
+
+![Screenshot from 2025-02-03 01-07-36](https://github.com/user-attachments/assets/5d0c6c62-344b-4b4d-929f-5ec133b508f4)
