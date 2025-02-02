@@ -38,3 +38,6 @@ to catch the visitors' attention and draw them into reading the articles on the 
 
 ![Screenshot from 2025-02-02 22-03-01](https://github.com/user-attachments/assets/ac6bbe2b-d3cc-4e4f-8c2a-58656127d448)
 
+**Source code of it**
+
+![Screenshot from 2025-02-02 22-14-00](https://github.com/user-attachments/assets/c719d1c2-3315-4df2-9ce5-1629dcb9dde1)
