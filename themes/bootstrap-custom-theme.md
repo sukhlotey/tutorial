@@ -1,4 +1,4 @@
-# Custome themes: Bootstrap
+# Custom themes: Bootstrap
 
 ### Let's create our own theme of Bootstrap instead of using default theme.
 
