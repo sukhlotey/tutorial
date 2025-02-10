@@ -2,22 +2,22 @@
 
 | Sr No. | Tutorials   |                         
 |------|------------------------------|
-|  1     |          **Tools**           |
+| **1** |          **Tools**           |
 | 1.1    | [ToDo](./tutorials/todo.md)   |
 | 1.2    | [Note](./tutorials/notes.md)    |   
 | 1.3    | [Calendar](./tutorials/calender.md) |
-| 2    | **Modules**  |               
+| **2**  | **Modules**  |               
 | 2.1    | [Workflow](./tutorials/workflow.md)|
 | 2.2    | [Automation](./tutorials/automation.md)|
 | 2.3   | [Core](./tutorials/core.md)|
 | 2.4   | [Custom](./tutorials/custom.md)|
 | 2.5   | [Integrations](./tutorials/integrations.md) |
 | 2.6   | [Website](./tutorials/website.md)|
-| 3    |  **Workshops**|
+| **3** |  **Workshops**|
 | 3.1   | [Shell](./tutorials/shell.md) |
-| 4    | **Websites**|
+| **4**    | **Websites**|
 | 4.1   | [Web Form](./tutorials/webform.md) |
-| 5    | **Web templates**  |
+| **5** | **Web templates**  |
 | 5.1 |  [Hero](./webtemplates/hero.md) |
 | 5.2 |  [Cards](./webtemplates/cards.md) |
 | 5.3 |  [Collapsibile](./webtemplates/collapsibile.md) |
@@ -38,3 +38,6 @@
 | 5.18 |  [Markdown](./webtemplates/markdown.md) |
 | 5.19 |  [Image grid](./webtemplates/imagegrid.md) |
 | 5.20 |  [Hero with right image](./webtemplates/herorightimage.md) |
+| **6**| **Custom Themes**|
+| 6.1  | [TailwindCSS](./themes/tailwind-custom-theme.md) |
+| 6.2  | [Bootstrap](./themes/bootstrap-custom-theme.md) |
