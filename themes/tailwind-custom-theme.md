@@ -43,12 +43,13 @@ npx tailwindcss init -p
 ```bash
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./*.html"], // Update paths as per your project structure
+  content: ["./*.html"],
   theme: {
     extend: {
       colors: {
         primary: "#ff5733",
         secondary: "#33ff57",
+        danger:"#c90606",
         dark: "#1e293b",
         light: "#f8fafc",
       },
@@ -66,10 +67,11 @@ export default {
     },
   },
   corePlugins: {
-    preflight: false, // Disable Tailwind's default styles
+    preflight: false, // Disable Tailwind's default reset styles
   },
   plugins: [],
 };
+
 ```
 
 * This configuration removes Tailwind’s default theme while allowing you to use only your custom styles.
