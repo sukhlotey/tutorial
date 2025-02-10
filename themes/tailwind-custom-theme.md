@@ -1,4 +1,4 @@
-# Custome themes: TailwindCSS 
+# Custom themes: TailwindCSS 
 
 ### Let's create our own custom theme instead of using default TailwindCSS theme.
 
