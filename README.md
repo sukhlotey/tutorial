@@ -41,3 +41,5 @@
 | **6**| **Custom Themes**|
 | 6.1  | [TailwindCSS](./themes/tailwind-custom-theme.md) |
 | 6.2  | [Bootstrap](./themes/bootstrap-custom-theme.md) |
+| **7** | **Apps** |
+| 7.1  | [Helpdesk](./apps/helpdesk.md) |
