@@ -202,6 +202,7 @@ IV Billing
 ##### Add Customers
 * Helpdesk> Customers
 * +New Customers
+
 ![Screenshot from 2025-02-15 14-58-05](https://github.com/user-attachments/assets/e29a460a-a187-4eb2-bfea-75c9b06a1fe8)
 
 ##### Contacts
@@ -212,4 +213,36 @@ IV Billing
 
 ##### Create Article as user
 
+* Create a ticket
 
+![image](https://github.com/user-attachments/assets/c8dfbc1b-7278-48ed-a1c5-3cf80001f0d0)
+
+* Now Agent can see ticket.
+
+![Screenshot from 2025-02-15 15-08-27](https://github.com/user-attachments/assets/e052f287-e43d-4d5d-aa55-fed9ea1e9e8d)
+
+* Reply to ticket
+
+![Screenshot from 2025-02-15 15-09-21](https://github.com/user-attachments/assets/df86d785-0cc3-4e16-8101-b43933c2bfbc)
+
+* Reply will send to user instantly
+
+![Screenshot from 2025-02-15 15-09-41](https://github.com/user-attachments/assets/69baf567-c583-466d-8b55-7ca2e66e2019)
+
+*  User can close the issue and can send feedback.
+
+![Screenshot from 2025-02-15 15-09-41](https://github.com/user-attachments/assets/f311524a-d166-4f1d-a6ea-841efe41ed98)
+
+* Agent can see response
+
+![Screenshot from 2025-02-15 15-10-33](https://github.com/user-attachments/assets/b3b7321f-159f-449f-ab66-3d900cf92790)
+
+##### Email will send to user when he/she get response
+* Enable the email send option
+* Go to desk > HD setting > Workflow > Enable _Instantly send e-mail_
+
+##### Setup SLA
+* Go to HD SLA
+* Manage response time resolved time according to need
+* setup working days
+* setup holidays 
