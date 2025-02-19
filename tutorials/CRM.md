@@ -1,5 +1,8 @@
 # Module: CRM
 
+### CRM (Customer Relationship Management)
+**Answer:** CRM refers to a technology, strategy, or system used to manage a company’s interactions and relationships with customers, prospects, and leads. It is designed to improve business relationships and drive sales growth.
+
 #### Opportunity  
 - **Definition**: Represents a potential sales deal or business opportunity with a customer or prospect.  
 - **Working**: Tracks details like the customer/prospect, expected closing date, sales stage, and opportunity value. Sales teams use this to manage and nurture potential business leads.
