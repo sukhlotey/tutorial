@@ -44,4 +44,4 @@
 | **7** | **Apps** |
 | 7.1  | [Helpdesk](./apps/helpdesk.md) |
 | **8** | **CL Tools** |
-| 7.1  | [Bench](./command-line-tools/bench.md) |
+| 8.1  | [Bench](./command-line-tools/bench.md) |
