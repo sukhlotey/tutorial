@@ -13,6 +13,7 @@
 | 2.4   | [Custom](./tutorials/custom.md)|
 | 2.5   | [Integrations](./tutorials/integrations.md) |
 | 2.6   | [Website](./tutorials/website.md)|
+| 2.7   | [CRM](./tutorials/CRM.md)|
 | **3** |  **Workshops**|
 | 3.1   | [Shell](./tutorials/shell.md) |
 | **4**    | **Websites**|
