@@ -98,8 +98,51 @@ By default frappe todo allows to all can create delete update share the todo.
 3. When a task is created and assigned to someone, the system internally stores this value.
 
 - "Assign To" (Sidebar)
-The Assign To in the sidebar is more of a UI feature.
+1. The Assign To in the sidebar is more of a UI feature.
+2. It allows multiple users to be assigned to a single task.
+3. The user(s) selected in "Assign To" appear in the list and can be managed directly from the sidebar
 
-It allows multiple users to be assigned to a single task.
+#### Why the names are different?
+- "Allocated To" is a single-user field that holds the main responsible person for the task.
+- "Assign To" allows multiple users to be assigned via the sidebar UI.
+- If "Assign To" allows multiple users, the system needs to store it differently, so "Allocated To" remains a dedicated single-user field.
 
-The user(s) selected in "Assign To" appear in the list and can be managed directly from the sidebar
+#### Reference Type & Reference Name
+These fields help to link the ToDo item with other documents in the system.
+
+**Reference Type** This field stores the Doctype to which the ToDo is linked.
+
+**Example**: If the ToDo is related to a Sales Invoice, the Reference Type will be "Sales Invoice".
+
+**Reference Name** This field stores the name/ID of the specific document.
+
+**Example**: If the task is related to a Sales Invoice with the ID "SINV-0001", then the Reference Name will be "SINV-0001".
+
+#### Why Are These Fields There?
+These fields help link a ToDo item to a specific document, making it easy to track what the task is related to.
+
+**Example**: If a ToDo is created for approving a Purchase Order, it will have:
+
+**Reference Type**: "Purchase Order"
+
+**Reference Name**: "PO-0005"
+
+This makes it easy to filter and find ToDo items related to specific documents.
+
+#### What is the "Color" Field?
+The Color field is used to visually differentiate tasks based on their status or priority.
+
+**Purpose of Color** It provides a quick visual indicator for users.
+
+![Screenshot from 2025-03-28 01-02-41](https://github.com/user-attachments/assets/1f13cbf0-c65e-496a-958d-f727c406bcc2)
+
+**Can be used to represent:**
+1. Priority (Red for high priority, Green for low priority)
+2. Status (Blue for in-progress, Gray for completed)
+3. Helps users manage tasks more effectively by scanning them based on colors.
+
+### Sources:
+
+- [Official todo documentation](https://docs.frappe.io/erpnext/user/manual/en/to-do)
+- [Todo source code](https://github.com/frappe/frappe/tree/develop/frappe/desk/report/todo)
+- [Frappe Forum todo discussions](https://discuss.frappe.io/search?q=todo)
